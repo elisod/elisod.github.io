@@ -3,7 +3,7 @@ html, body {
   background: #ffe6e6;
 }
 
-h1, h2, a {
+h1, h2, a, ul, ol {
   text-align: center;
   font-size: 70;
   color: #99ff99;
@@ -17,4 +17,5 @@ p {
 }
 
 img {border-radius: 100%;
+     text-align: center;
 }
