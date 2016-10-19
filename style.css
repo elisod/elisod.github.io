@@ -1,34 +1,20 @@
-html, body {
-  margin: 0;
+body {
+  color : #99ff99;
   background: #ffe6e6;
+  font-family: "Courier New";
+  font-size: 70;
+  text-align: center;
   
 }
 
-h1, h2, a {
-  font-family: "Courier New";
-  text-transform: uppercase;
-  text-align: center;
-  font-size: 90;
-  color: #99ff99;
-}
-
-p {font-family: "Courier New";
+h1 {
   text-align: center;
   font-size: 70;
   color: #99ff99;
 }
 
-container {
-  max-width: 940px;
-    margin: 0 auto;
+a  {color: #99ff99;
 }
 
-/*main*/
-
-.main {
-  text-align: center;
-  background: 
-    url ("http://a-z-animals.com/media/animals/images/original/adelie_penguin1.jpg") no-repeat center center;
-  background-size: cover;
-    height: 600px;
+img {border-radius: 100%;
 }
