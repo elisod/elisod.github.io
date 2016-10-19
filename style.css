@@ -12,7 +12,7 @@ p {
   color:red;
 }
 
-div {
+ul,ol {
   font-size: 20px;
   font-family: "Courier New";
   color:red;
