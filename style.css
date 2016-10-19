@@ -1,4 +1,4 @@
-html, body, p{
+html, body, {
   margin: 0;
   background: #ffe6e6;
   font-family: "Courier New";
@@ -6,7 +6,18 @@ html, body, p{
   font-size: 70;
 } 
 
-a {color: #99ff99;
+p {
+  margin: 0;
+  font-family: "Courier New";
+  text-align: center;
+  font-size: 70;
+}
+
+a {
+  margin: 0;
+  font-family: "Courier New";
+  text-align: center;
+  font-size: 70;
 }
 
 div {text-align: center;
