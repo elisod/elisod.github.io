@@ -1,10 +1,9 @@
-html, body, a {
+html, body, a , p{
   margin: 0;
   background: #ffe6e6;
   font-family: "Courier New";
   text-align: center;
   font-size: 70;
-  ul-align: center
 } 
 
 img {border-radius: 100%;
