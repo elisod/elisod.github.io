@@ -1,10 +1,13 @@
-html, body, p{
+html{
   margin: 0;
   background: #ffe6e6;
+} 
+
+p {
   font-family: "Courier New";
   text-align: center;
   font-size: 70px;
-} 
+}
 
 h1 {font-size: 200px;
 }
