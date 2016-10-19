@@ -1,7 +1,7 @@
 html {background: #ffe6e6;
 }
 h1 {
-  font-size: 20px;
+  font-size: 70px;
   font-family: "Courier New";
   color:;
 }
@@ -9,11 +9,11 @@ h1 {
 p, ul,ol {
   font-size: 20px;
   font-family: "Courier New";
-  color:red;
+  color:;
 }
 
 a {
   font-size: 20px;
   font-family: "Courier New";
-  color:red;
+  color:;
 }
