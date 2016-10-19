@@ -37,5 +37,5 @@ ol{display: inline-block;
 }
 
 img {border-radius: 100%;
-     text-align: center;
+     margin: 0;
 }
