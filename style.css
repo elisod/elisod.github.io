@@ -6,10 +6,10 @@ html, body{
 p {
   font-family: "Courier New";
   text-align: center;
-  font-size: 70px;
+  font-size: 20px;
 }
 
-h1 {font-size: 70px;
+h1 {font-size: 20px;
   text-align: center;
   font-family: "Courier New";
 }
@@ -18,7 +18,7 @@ a {
   margin: 0;
   font-family: "Courier New";
   text-align: center;
-  font-size: 70px;
+  font-size: 20px;
 }
 
 div {text-align: center;
@@ -27,13 +27,13 @@ div {text-align: center;
 ul {display: inline-block; 
    text-align: left;
    font-family: "Courer New";
-   font-size: "70px";
+   font-size: 20px;
 }
 
 ol{display: inline-block; 
   text-align: left;
   font-family: "Courier New";
-  font-size: 70px;
+  font-size: 20px;
 }
 
 img {border-radius: 100%;
