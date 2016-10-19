@@ -5,3 +5,9 @@ h1 {
   font-family: "Courier New";
   color:;
 }
+
+p {
+  font-size: 20px;
+  font-family: "Courier New";
+  color:red;
+}
