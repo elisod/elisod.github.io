@@ -10,6 +10,8 @@ p {
 }
 
 h1 {font-size: 70px;
+  text-align: center;
+  font-family: "Courier New";
 }
 
 a {
@@ -24,10 +26,14 @@ div {text-align: center;
 
 ul {display: inline-block; 
    text-align: left;
+   font-family: "Courer New";
+   font-size: "70px";
 }
 
 ol{display: inline-block; 
   text-align: left;
+  font-family: "Courier New";
+  font-size: 70px;
 }
 
 img {border-radius: 100%;
