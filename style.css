@@ -6,11 +6,7 @@ html, body, p{
   font-size: 70;
 } 
 
-p {
-  margin: 0;
-  font-family: "Times New Roman";
-  text-align: center;
-  font-size: 30;
+h1 {font-size: 100
 }
 
 a {
