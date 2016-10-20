@@ -24,7 +24,7 @@ p {
 ul, ol {
   font-size:20px;
   font-family: Courier New, serif;
-  color:;
+  background-color: white;
 }
 
 a {
@@ -33,6 +33,4 @@ a {
   color:;
 }
 
-div {background-color:white;
-    
-}
+
