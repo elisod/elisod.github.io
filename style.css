@@ -21,10 +21,10 @@ p {
   color:;
 }
 
-ul, ol {
+div {
   font-size:20px;
   font-family: Courier New, serif;
-  background-color:;
+  background-color: white;
 }
 
 a {
