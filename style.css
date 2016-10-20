@@ -32,3 +32,8 @@ a {
   font-family: Courier New, serif;
   color:;
 }
+
+div {color: white;
+     width: 20px;
+     height: 10px;
+}
