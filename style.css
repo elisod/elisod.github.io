@@ -28,6 +28,10 @@ div {
   
 }
 
+div > p {
+  text-decoration: underline;
+}
+
 a {
   font-size: 20px;
   font-family: Courier New, serif;
@@ -38,5 +42,6 @@ a {
 img{
     margin: auto;
 }
+
 
 
